@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Expense Tracker",
+  "description": "A MERN-style finance tracker with AI insights, income/expense management, charts, and CSV export.",
+  "requestFramePermissions": []
+}
